@@ -1,7 +1,7 @@
 const today = new Date();
 let new_month, new_year;
 let last_day;
-const fetch_URL = "ここにデプロイしたURLを指定";
+const fetch_URL = "https://script.google.com/macros/s/AKfycbwNfX_IFMXFl1vyMSjIb85ecmIOGslb7yL05ZI9F7jAlQlA2jhE_Um0NUscveepwz-v-g/exec";
 
 function getScheduleData() {
     //ページ内のすべての<tr>を取得
